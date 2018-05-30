@@ -1,3 +1,6 @@
 data
 output
 .idea
+.Rproj.user
+*.csv
+.R*
